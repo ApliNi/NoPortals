@@ -1,0 +1,6 @@
+
+# 需要禁用传送门的世界名, 区分大小写 | The world name of the portal needs to be disabled, case-sensitive
+# 将阻止下界传送门和末地传送门的创建
+worlds:
+  - world
+  - world_nether

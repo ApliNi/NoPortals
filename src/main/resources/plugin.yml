@@ -1,0 +1,8 @@
+name: NoPortals
+version: '${project.version}'
+main: aplini.noportals.NoPortals
+api-version: 1.19
+commands:
+  blockportal:
+    description: noportals 插件的主命令
+    usage: /<command>
